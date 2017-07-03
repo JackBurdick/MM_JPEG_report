@@ -3,6 +3,7 @@
 
 # Lossless JPEG Encoder and Decoder
 ![JPEG Overview][image_overview]
+Lossless JPEG encoders and their predictor functions are explored and evaluated for a test image.
 
 ## Project information
 Please see;
